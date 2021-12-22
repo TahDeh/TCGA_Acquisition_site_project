@@ -8,3 +8,5 @@ Additional info on patch selection and feature extraction is provided at [KimiaL
 
 Since deep feature extraction is a time consuming process, extracted DenseNet and KimiaNet deep features are provided in pickle files.
 Pickle files 
+
+If you would like to access extracted deep features, please contac me at @taher.dehkhar@gmail.com
